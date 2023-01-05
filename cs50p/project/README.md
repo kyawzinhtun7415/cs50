@@ -1,7 +1,7 @@
-    # STUDENT REPORT SYSTEM
+    # STUDENT PERFORMANCE REPORT SYSTEM
     #### Video Demo:  https://youtu.be/WkZ7ein8O9w
     #### Description:
-    This is my final project for CS50's Introduction to Programming with Python. This is a small student report project with limited options. This project imports csv file and the user can choose which choices he wants to perform. First, the user has to import the csv file that has students' roll numbers, name,s and grades from the command line. Then, the command line will display four choices the user can perform. After that, the user has to choose four choices he would like to perform. The user has to enter from 1 to 4 depending on which choices he wants to make.
+    This is my final project for CS50's Introduction to Programming with Python. This is a small student performance report project with limited options. This project imports csv file and the user can choose which choices he wants to perform. First, the user has to import the csv file that has students' roll numbers, name,s and grades from the command line. Then, the command line will display four choices the user can perform. After that, the user has to choose four choices he would like to perform. The user has to enter from 1 to 4 depending on which choices he wants to make.
 
    The first choice is to display the csv file in a table format using pandas library.
 
